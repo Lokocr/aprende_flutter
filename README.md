@@ -6,4 +6,4 @@ Poco se iran agregando mas y mas proyectos con distintos ejemplos y teccologias,
 
 ## Proyectos:
 
-- Save to Database: https://github.com/Lokocr/aprende_flutter/tree/main/savedatabase
+- Guardar en Base de Datos con SQLite: https://github.com/Lokocr/aprende_flutter/tree/main/savedatabase
