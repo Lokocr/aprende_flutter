@@ -7,3 +7,4 @@ Poco se iran agregando mas y mas proyectos con distintos ejemplos y teccologias,
 ## Proyectos:
 
 - Guardar en Base de Datos con SQLite: https://github.com/Lokocr/aprende_flutter/tree/main/savedatabase
+- Login con Google usando Supabase-Auth: https://github.com/Lokocr/aprende_flutter/tree/main/aprende_supabase_auth
